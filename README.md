@@ -58,9 +58,8 @@ The dashboard includes dynamic slicers for:
 * <strong>Visualization:</strong> Interactive charts, DAX (Data Analysis Expressions), and Slicers.
 
 ## 🖼️ Dashboard Preview
-![Dashboard View](1000100862.jpg)
+<img width="766" height="432" alt="Retail Sales Dashboard" src="https://github.com/user-attachments/assets/0ddd4315-63bc-47f2-b7d3-bd9f590e054a" />
 
-*(Insert a GIF here of the interactivity showcased in your video to impress recruiters)*
 
 ---
 *Developed by Radha Pawar*
